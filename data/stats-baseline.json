@@ -1,5 +1,5 @@
 {
- "ts": "2026-10-11T08:55:14.018Z",
+ "ts": "2026-10-11T15:45:31.879Z",
  "ids": [
   "7d7d",
   "8x-skills",
@@ -323,6 +323,7 @@
   "deepseek-v4-j-space-capability-realization-report",
   "deepseek-vision",
   "deepseek-visionary",
+  "deepseekbot",
   "deepseekgui",
   "deepseekharness-desktop",
   "deepseekharnessdesktop",
@@ -2260,6 +2261,7 @@
   "dsh-tool-writing",
   "dsh-toolbelt",
   "dsh-toolbox",
+  "dsh-toolbox-ui",
   "dsh-toolkit",
   "dsh-toy",
   "dsh-tps",
@@ -2540,6 +2542,7 @@
   "dsh-workbench-dpf555",
   "dsh-workbench-lee259",
   "dsh-workbuddy-connect",
+  "dsh-workbuddy-connect-masknull",
   "dsh-workbuddy-xdpool",
   "dsh-workflow",
   "dsh-workflow-omdsh-dev",
@@ -2734,6 +2737,7 @@
   "knowledge-from-literature-and-bilibili",
   "knowlp-rag",
   "kph",
+  "krouter",
   "lantaiagent",
   "laoa-dshgf",
   "lark-agent-bridge",

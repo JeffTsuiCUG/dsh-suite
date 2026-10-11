@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T00:55:04.475Z",
+  "generated_at": "2026-10-11T15:45:31.771Z",
   "repos": [
     {
       "repo": "0sour/dsh-plugins",
@@ -1055,6 +1055,15 @@
       "lastKnownUrl": "https://github.com/zoumutou/dsh-cost-balance"
     },
     {
+      "repo": "1while1/dsh-whale-subagent",
+      "seen": 1,
+      "firstDetectedAt": "2026-10-11T15:45:31.566Z",
+      "lastDetectedAt": "2026-10-11T15:45:31.566Z",
+      "lastStars": 1,
+      "lastPush": "2026-08-14",
+      "lastKnownUrl": "https://github.com/1while1/dsh-whale-subagent"
+    },
+    {
       "repo": "chokwinlee/deepseek-harness-desktop",
       "seen": 1,
       "firstDetectedAt": "2026-08-17T01:57:16.596Z",
@@ -1062,6 +1071,15 @@
       "lastStars": 17,
       "lastPush": "2026-08-16",
       "lastKnownUrl": "https://github.com/chokwinlee/deepseek-harness-desktop"
+    },
+    {
+      "repo": "fengzhiyushui/dsh-desktop-window",
+      "seen": 1,
+      "firstDetectedAt": "2026-10-11T15:45:31.566Z",
+      "lastDetectedAt": "2026-10-11T15:45:31.566Z",
+      "lastStars": 0,
+      "lastPush": "2026-09-11",
+      "lastKnownUrl": "https://github.com/fengzhiyushui/dsh-desktop-window"
     }
   ]
 }
