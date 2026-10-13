@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T19:22:29.050Z",
+  "generated_at": "2026-10-13T23:48:06.641Z",
   "repos": [
     {
       "repo": "0sour/dsh-plugins",
@@ -857,6 +857,15 @@
       "lastKnownUrl": "https://github.com/sparkmio/dsh-sfversion"
     },
     {
+      "repo": "StarChen-Cycler/octie-dsh-plugin",
+      "seen": 2,
+      "firstDetectedAt": "2026-10-13T19:22:28.893Z",
+      "lastDetectedAt": "2026-10-13T23:48:06.629Z",
+      "lastStars": 2,
+      "lastPush": "2026-09-20",
+      "lastKnownUrl": "https://github.com/StarChen-Cycler/octie-dsh-plugin"
+    },
+    {
       "repo": "statem-li/dsh-webui",
       "seen": 2,
       "firstDetectedAt": "2026-09-28T06:59:02.458Z",
@@ -1107,15 +1116,6 @@
       "lastStars": 17,
       "lastPush": "2026-08-16",
       "lastKnownUrl": "https://github.com/chokwinlee/deepseek-harness-desktop"
-    },
-    {
-      "repo": "StarChen-Cycler/octie-dsh-plugin",
-      "seen": 1,
-      "firstDetectedAt": "2026-10-13T19:22:28.893Z",
-      "lastDetectedAt": "2026-10-13T19:22:28.894Z",
-      "lastStars": 2,
-      "lastPush": "2026-09-20",
-      "lastKnownUrl": "https://github.com/StarChen-Cycler/octie-dsh-plugin"
     }
   ]
 }

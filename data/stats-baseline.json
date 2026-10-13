@@ -1,5 +1,5 @@
 {
- "ts": "2026-10-13T19:22:29.181Z",
+ "ts": "2026-10-13T23:48:06.737Z",
  "ids": [
   "7d7d",
   "8x-skills",
@@ -1617,6 +1617,7 @@
   "dsh-plugin-directory",
   "dsh-plugin-doctor",
   "dsh-plugin-doctor-zoahdev",
+  "dsh-plugin-execution-graph",
   "dsh-plugin-file-manager",
   "dsh-plugin-finder",
   "dsh-plugin-finder-ihuajiu",
