@@ -1,5 +1,5 @@
 {
- "ts": "2026-10-14T15:15:47.655Z",
+ "ts": "2026-10-14T19:28:39.419Z",
  "ids": [
   "7d7d",
   "8x-skills",
@@ -891,6 +891,7 @@
   "dsh-download-progress",
   "dsh-drag-and-drop",
   "dsh-drag-and-drop-omdsh-dev",
+  "dsh-drawai",
   "dsh-dream-skin",
   "dsh-drop-file-to-path",
   "dsh-drop-to-path",
@@ -1388,6 +1389,7 @@
   "dsh-money-view",
   "dsh-monitor",
   "dsh-motion",
+  "dsh-motion-ui",
   "dsh-movein",
   "dsh-moyan",
   "dsh-multi-chat",
@@ -1832,6 +1834,7 @@
   "dsh-prompt-presets",
   "dsh-prompt-profile",
   "dsh-prompt-rail",
+  "dsh-prompt-setting",
   "dsh-prompt-stash",
   "dsh-prompt-studio",
   "dsh-proof",
