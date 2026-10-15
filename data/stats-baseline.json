@@ -1,5 +1,5 @@
 {
- "ts": "2026-10-15T01:35:05.357Z",
+ "ts": "2026-10-15T07:31:33.379Z",
  "ids": [
   "7d7d",
   "8x-skills",
@@ -179,6 +179,7 @@
   "dashi-taskboard",
   "dcode",
   "de-anthropocentric-research-engine",
+  "deep-blend",
   "deep-option",
   "deep-pi",
   "deep-read-summarize",
@@ -697,6 +698,7 @@
   "dsh-coding-companion",
   "dsh-coding-subscription-oauth",
   "dsh-comfyui",
+  "dsh-comfyui-web",
   "dsh-command-opt",
   "dsh-commandcode-go-provider",
   "dsh-commandcode-provider",
@@ -1691,6 +1693,7 @@
   "dsh-plugin-net-access",
   "dsh-plugin-notify",
   "dsh-plugin-notify-huguangyu666",
+  "dsh-plugin-oauth-subs",
   "dsh-plugin-open-editor",
   "dsh-plugin-opencode-bridge",
   "dsh-plugin-pack-web",
