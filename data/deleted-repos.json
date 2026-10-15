@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T07:31:33.289Z",
+  "generated_at": "2026-10-15T13:30:44.259Z",
   "repos": [
     {
       "repo": "0sour/dsh-plugins",
@@ -785,6 +785,15 @@
       "lastKnownUrl": "https://github.com/Roy-oss1/dsh-lark"
     },
     {
+      "repo": "Sdongmaker/vpshub",
+      "seen": 2,
+      "firstDetectedAt": "2026-10-15T07:31:32.782Z",
+      "lastDetectedAt": "2026-10-15T13:30:44.242Z",
+      "lastStars": 1,
+      "lastPush": "2026-08-14",
+      "lastKnownUrl": "https://github.com/Sdongmaker/vpshub"
+    },
+    {
       "repo": "sharkymew/dsh-utility-tools",
       "seen": 2,
       "firstDetectedAt": "2026-09-30T13:48:22.861Z",
@@ -1118,13 +1127,13 @@
       "lastKnownUrl": "https://github.com/chokwinlee/deepseek-harness-desktop"
     },
     {
-      "repo": "Sdongmaker/vpshub",
+      "repo": "ForgeaX-Games/forgeax-dsh-game-plugin",
       "seen": 1,
-      "firstDetectedAt": "2026-10-15T07:31:32.782Z",
-      "lastDetectedAt": "2026-10-15T07:31:32.782Z",
-      "lastStars": 1,
-      "lastPush": "2026-08-14",
-      "lastKnownUrl": "https://github.com/Sdongmaker/vpshub"
+      "firstDetectedAt": "2026-10-15T13:30:44.242Z",
+      "lastDetectedAt": "2026-10-15T13:30:44.242Z",
+      "lastStars": 6,
+      "lastPush": "2026-08-26",
+      "lastKnownUrl": "https://github.com/ForgeaX-Games/forgeax-dsh-game-plugin"
     }
   ]
 }
