@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T13:30:44.259Z",
+  "generated_at": "2026-10-15T18:23:36.350Z",
   "repos": [
     {
       "repo": "0sour/dsh-plugins",
@@ -387,6 +387,15 @@
       "lastStars": 1,
       "lastPush": "2026-08-13",
       "lastKnownUrl": "https://github.com/fff122/dsh-task-checklist"
+    },
+    {
+      "repo": "ForgeaX-Games/forgeax-dsh-game-plugin",
+      "seen": 2,
+      "firstDetectedAt": "2026-10-15T13:30:44.242Z",
+      "lastDetectedAt": "2026-10-15T18:23:36.337Z",
+      "lastStars": 6,
+      "lastPush": "2026-08-26",
+      "lastKnownUrl": "https://github.com/ForgeaX-Games/forgeax-dsh-game-plugin"
     },
     {
       "repo": "Fro2en12/dsh-download-progress",
@@ -1125,15 +1134,6 @@
       "lastStars": 17,
       "lastPush": "2026-08-16",
       "lastKnownUrl": "https://github.com/chokwinlee/deepseek-harness-desktop"
-    },
-    {
-      "repo": "ForgeaX-Games/forgeax-dsh-game-plugin",
-      "seen": 1,
-      "firstDetectedAt": "2026-10-15T13:30:44.242Z",
-      "lastDetectedAt": "2026-10-15T13:30:44.242Z",
-      "lastStars": 6,
-      "lastPush": "2026-08-26",
-      "lastKnownUrl": "https://github.com/ForgeaX-Games/forgeax-dsh-game-plugin"
     }
   ]
 }

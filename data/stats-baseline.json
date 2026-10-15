@@ -1,5 +1,5 @@
 {
- "ts": "2026-10-15T13:30:44.364Z",
+ "ts": "2026-10-15T18:23:36.432Z",
  "ids": [
   "7d7d",
   "8x-skills",
@@ -546,6 +546,7 @@
   "dsh-better-sidebar-lite",
   "dsh-better-workspace",
   "dsh-bg-new",
+  "dsh-bili-scroll",
   "dsh-bilibili",
   "dsh-billing",
   "dsh-billing-glass",
@@ -1682,6 +1683,7 @@
   "dsh-plugin-memory",
   "dsh-plugin-merge-tool-calls",
   "dsh-plugin-mermaid",
+  "dsh-plugin-mesh",
   "dsh-plugin-message-edit",
   "dsh-plugin-meta-memory",
   "dsh-plugin-miliastra-toolbox",
@@ -1868,6 +1870,7 @@
   "dsh-quote-reply",
   "dsh-qwen-mm",
   "dsh-qwen-multimodal",
+  "dsh-qwen38-local-qol",
   "dsh-ramify",
   "dsh-randomuuid-polyfill",
   "dsh-raw-html",
@@ -2589,6 +2592,7 @@
   "dsh-wsl-workspace-dsh-wsl-workspace-maintainers",
   "dsh-x",
   "dsh-xai",
+  "dsh-xdpool",
   "dsh-xiaohei",
   "dsh-xiaotangyuan-game",
   "dsh-xiaoyao-skins",
