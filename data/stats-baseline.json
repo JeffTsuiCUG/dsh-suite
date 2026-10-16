@@ -1,5 +1,5 @@
 {
- "ts": "2026-10-16T07:14:31.360Z",
+ "ts": "2026-10-16T12:29:40.411Z",
  "ids": [
   "7d7d",
   "8x-skills",
@@ -341,6 +341,7 @@
   "deepwiki-rs",
   "deja-vu",
   "delivery-review-dsh-plugin",
+  "deltabox-lite",
   "design-playbook",
   "dev-flow",
   "dhs-theme-plugin",
@@ -800,6 +801,7 @@
   "dsh-deepseek-billing-golitter",
   "dsh-deepseek-flow",
   "dsh-deepseek-girl-pet",
+  "dsh-deepseek-pet",
   "dsh-deepseek-quota",
   "dsh-deepseek-quota-cn-scuo-oo",
   "dsh-deepseek-usage",
@@ -2091,6 +2093,7 @@
   "dsh-solo-thinking",
   "dsh-solution-explorer",
   "dsh-soul-md",
+  "dsh-soulmojito",
   "dsh-sound",
   "dsh-sound-effects-plugin",
   "dsh-soundscape",

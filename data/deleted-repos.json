@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T07:14:31.247Z",
+  "generated_at": "2026-10-16T12:29:40.306Z",
   "repos": [
     {
       "repo": "0sour/dsh-plugins",
@@ -1100,6 +1100,15 @@
       "lastKnownUrl": "https://github.com/zhulin025/LaoA-dshGF"
     },
     {
+      "repo": "zimixvx/dsh-archive-manager",
+      "seen": 2,
+      "firstDetectedAt": "2026-10-16T07:14:31.228Z",
+      "lastDetectedAt": "2026-10-16T12:29:40.286Z",
+      "lastStars": 1,
+      "lastPush": "2026-08-13",
+      "lastKnownUrl": "https://github.com/zimixvx/dsh-archive-manager"
+    },
+    {
       "repo": "zoahdev/dsh-github-intelligence",
       "seen": 2,
       "firstDetectedAt": "2026-10-13T03:38:34.542Z",
@@ -1134,15 +1143,6 @@
       "lastStars": 17,
       "lastPush": "2026-08-16",
       "lastKnownUrl": "https://github.com/chokwinlee/deepseek-harness-desktop"
-    },
-    {
-      "repo": "zimixvx/dsh-archive-manager",
-      "seen": 1,
-      "firstDetectedAt": "2026-10-16T07:14:31.228Z",
-      "lastDetectedAt": "2026-10-16T07:14:31.228Z",
-      "lastStars": 1,
-      "lastPush": "2026-08-13",
-      "lastKnownUrl": "https://github.com/zimixvx/dsh-archive-manager"
     }
   ]
 }
