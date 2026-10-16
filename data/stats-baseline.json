@@ -1,5 +1,5 @@
 {
- "ts": "2026-10-16T17:29:00.732Z",
+ "ts": "2026-10-16T21:13:32.712Z",
  "ids": [
   "7d7d",
   "8x-skills",
@@ -2705,6 +2705,7 @@
   "grassvison",
   "graycode-for-dsh",
   "graycode-for-dsh-graycodeteam",
+  "grok-bots-for-deepseek-harness",
   "grove",
   "ha-orchestrator",
   "hana-dsh-bridge",
