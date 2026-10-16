@@ -1,5 +1,5 @@
 {
- "ts": "2026-10-16T12:29:40.411Z",
+ "ts": "2026-10-16T17:29:00.732Z",
  "ids": [
   "7d7d",
   "8x-skills",
@@ -1130,6 +1130,7 @@
   "dsh-image2-draw",
   "dsh-imagecraft",
   "dsh-imagegen",
+  "dsh-imagegen-video",
   "dsh-imessage",
   "dsh-imggenerate",
   "dsh-import-agents",
@@ -2400,6 +2401,7 @@
   "dsh-vibeos",
   "dsh-video-downloader",
   "dsh-video-lens",
+  "dsh-video-skin",
   "dsh-video-understand",
   "dsh-view-modes",
   "dsh-virtual-product-team",
