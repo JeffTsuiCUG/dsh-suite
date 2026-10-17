@@ -1,5 +1,5 @@
 {
- "ts": "2026-10-17T09:25:20.229Z",
+ "ts": "2026-10-17T13:47:05.139Z",
  "ids": [
   "7d7d",
   "8x-skills",
@@ -1503,6 +1503,7 @@
   "dsh-opencode-usage",
   "dsh-opencode-usage-vinyumao",
   "dsh-opencode-zen",
+  "dsh-opencode-zen-free-provider",
   "dsh-opencodego-usage",
   "dsh-openmaic",
   "dsh-openpencil",
