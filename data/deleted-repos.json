@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T12:29:40.306Z",
+  "generated_at": "2026-10-18T05:58:25.128Z",
   "repos": [
     {
       "repo": "0sour/dsh-plugins",
@@ -1134,6 +1134,15 @@
       "lastStars": 2,
       "lastPush": "2026-08-14",
       "lastKnownUrl": "https://github.com/zoumutou/dsh-cost-balance"
+    },
+    {
+      "repo": "cerebrixos-org/tuning-engines-cli",
+      "seen": 1,
+      "firstDetectedAt": "2026-10-18T05:58:24.956Z",
+      "lastDetectedAt": "2026-10-18T05:58:24.956Z",
+      "lastStars": 6,
+      "lastPush": "2026-08-18",
+      "lastKnownUrl": "https://github.com/cerebrixos-org/tuning-engines-cli"
     },
     {
       "repo": "chokwinlee/deepseek-harness-desktop",
