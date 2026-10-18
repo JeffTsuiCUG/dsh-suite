@@ -1,5 +1,5 @@
 {
- "ts": "2026-10-18T20:47:20.642Z",
+ "ts": "2026-10-18T23:16:21.236Z",
  "ids": [
   "7d7d",
   "8x-skills",
@@ -660,6 +660,7 @@
   "dsh-client-ui-voice-input",
   "dsh-client-ui-writing",
   "dsh-client-usage",
+  "dsh-cliworker-now",
   "dsh-cloak-browser",
   "dsh-closerai",
   "dsh-cloudflare-browser-run",
@@ -1721,6 +1722,7 @@
   "dsh-plugin-radar",
   "dsh-plugin-rag",
   "dsh-plugin-rdk",
+  "dsh-plugin-rea",
   "dsh-plugin-release",
   "dsh-plugin-review",
   "dsh-plugin-save-token",
