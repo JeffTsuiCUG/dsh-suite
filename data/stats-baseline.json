@@ -1,5 +1,5 @@
 {
- "ts": "2026-10-18T05:58:25.242Z",
+ "ts": "2026-10-18T11:09:07.087Z",
  "ids": [
   "7d7d",
   "8x-skills",
@@ -722,6 +722,7 @@
   "dsh-computer-use-xiaoheizi1212",
   "dsh-computer-use-zrui-c",
   "dsh-config-manager",
+  "dsh-connect-qoder",
   "dsh-connect-trae",
   "dsh-connect-workbuddy",
   "dsh-console",
@@ -1851,6 +1852,7 @@
   "dsh-provider-billing",
   "dsh-provider-model-configurator",
   "dsh-provider-quota",
+  "dsh-providers-hub",
   "dsh-proxy",
   "dsh-pua",
   "dsh-pub",
@@ -2639,6 +2641,7 @@
   "dshwiki",
   "dshx",
   "dskin",
+  "eac-design-world",
   "eac-desktop",
   "eac-desktop-ebony-vinyl",
   "eac-pack",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T05:58:25.128Z",
+  "generated_at": "2026-10-18T11:09:06.981Z",
   "repos": [
     {
       "repo": "0sour/dsh-plugins",
@@ -153,6 +153,15 @@
       "lastStars": 1,
       "lastPush": "2026-08-13",
       "lastKnownUrl": "https://github.com/bitterSmilezzz/dsh-skill-manager"
+    },
+    {
+      "repo": "cerebrixos-org/tuning-engines-cli",
+      "seen": 2,
+      "firstDetectedAt": "2026-10-18T05:58:24.956Z",
+      "lastDetectedAt": "2026-10-18T11:09:06.852Z",
+      "lastStars": 6,
+      "lastPush": "2026-08-18",
+      "lastKnownUrl": "https://github.com/cerebrixos-org/tuning-engines-cli"
     },
     {
       "repo": "CH4ACKO3/dsh-ui-workspace",
@@ -1134,15 +1143,6 @@
       "lastStars": 2,
       "lastPush": "2026-08-14",
       "lastKnownUrl": "https://github.com/zoumutou/dsh-cost-balance"
-    },
-    {
-      "repo": "cerebrixos-org/tuning-engines-cli",
-      "seen": 1,
-      "firstDetectedAt": "2026-10-18T05:58:24.956Z",
-      "lastDetectedAt": "2026-10-18T05:58:24.956Z",
-      "lastStars": 6,
-      "lastPush": "2026-08-18",
-      "lastKnownUrl": "https://github.com/cerebrixos-org/tuning-engines-cli"
     },
     {
       "repo": "chokwinlee/deepseek-harness-desktop",
