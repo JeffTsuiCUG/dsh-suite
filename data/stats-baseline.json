@@ -1,5 +1,5 @@
 {
- "ts": "2026-10-18T11:09:07.087Z",
+ "ts": "2026-10-18T14:38:28.498Z",
  "ids": [
   "7d7d",
   "8x-skills",
@@ -2804,6 +2804,7 @@
   "loushang",
   "luau-docs-oracle",
   "lujo-mcp",
+  "lunheng-article-pipeline-dsh",
   "lx-music-for-dsh",
   "maid-atelier-ui-bundle",
   "makocode",
@@ -3144,6 +3145,7 @@
   "whaleisle",
   "whalekit",
   "widget-dock",
+  "workbuddy-to-dsh",
   "workbuddyskillgroups4dsh",
   "workdsh",
   "working-activity",
