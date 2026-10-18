@@ -1,5 +1,5 @@
 {
- "ts": "2026-10-18T14:38:28.498Z",
+ "ts": "2026-10-18T18:09:39.224Z",
  "ids": [
   "7d7d",
   "8x-skills",
@@ -1534,6 +1534,7 @@
   "dsh-pause",
   "dsh-payload-capture",
   "dsh-pdf",
+  "dsh-pdf-mineru",
   "dsh-peer-link",
   "dsh-pentest",
   "dsh-pentester",
@@ -2653,6 +2654,7 @@
   "echobird",
   "echocat-skill-panel",
   "echocat-skill-panel-3-0",
+  "eduwork",
   "ego-browser",
   "eleckoi",
   "embedded-workbench",
