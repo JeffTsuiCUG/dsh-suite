@@ -75794,6 +75794,56 @@
    "isOfficialBeta": false,
    "language": "TypeScript",
    "sourceNote": "auto"
+  },
+  {
+   "id": "dsh-connect-minimaxcode",
+   "name": "dsh-connect-minimaxcode",
+   "npm": "dsh-connect-minimaxcode",
+   "repo": "JeffTsuiCUG/dsh-connect-minimaxcode",
+   "url": "https://github.com/JeffTsuiCUG/dsh-connect-minimaxcode",
+   "category": "llm",
+   "description": {
+    "en": "Unofficial provider reusing a signed-in MiniMax Code desktop app: Anthropic Messages compatible, live model catalog, credit balance.",
+    "zh": "非官方插件：复用本机已登录的 MiniMax Code 桌面 App 接入 DSH，Anthropic Messages 兼容、动态模型目录、积分余额与到期提示。"
+   },
+   "author": "JeffTsuiCUG",
+   "stars": 0,
+   "license": "MIT",
+   "tags": [
+    "minimax",
+    "model-provider",
+    "anthropic-compatible",
+    "credits"
+   ],
+   "dsh": {
+    "minVersion": "0.1.7-rc.1",
+    "peerCordis": ">=4.0.4 <5.0.0",
+    "node": "^22.19.0 || >=24.0.0"
+   },
+   "compat": {
+    "status": "unknown",
+    "dshVersion": "",
+    "lastVerified": "",
+    "note": ""
+   },
+   "install": "dsh plugin --profile desktop add github:JeffTsuiCUG/dsh-connect-minimaxcode",
+   "featured": false,
+   "isOfficialBeta": false,
+   "language": "TypeScript",
+   "sourceNote": "author submission",
+   "last_push": "2026-10-20",
+   "evidence": {
+    "level": 1,
+    "l3Verified": false,
+    "source": "author submission"
+   },
+   "risk": {
+    "installScript": false,
+    "networkEgress": null,
+    "shellAccess": false,
+    "noLicense": false
+   },
+   "installNote": "Reads the MiniMax Code desktop app's local sign-in on this machine and calls MiniMax's non-public client interfaces. Unofficial plugin, not affiliated with MiniMax or DeepSeek; study and research use only, no support offered."
   }
  ],
  "watchlist": [
