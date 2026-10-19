@@ -1,5 +1,5 @@
 {
- "ts": "2026-10-19T01:21:20.471Z",
+ "ts": "2026-10-19T07:50:46.485Z",
  "ids": [
   "7d7d",
   "8x-skills",
@@ -9,6 +9,7 @@
   "adb-dsh-plugin",
   "adhdgofly-dsh-ext",
   "aegis",
+  "aeval",
   "aflare",
   "agent-body",
   "agent-context-editor",
@@ -844,6 +845,7 @@
   "dsh-desktop-launcher-becomeless",
   "dsh-desktop-liguobao",
   "dsh-desktop-lijian-ui",
+  "dsh-desktop-linux",
   "dsh-desktop-longyu065",
   "dsh-desktop-marcon0203",
   "dsh-desktop-mochinek0",
@@ -933,6 +935,7 @@
   "dsh-ernie-image",
   "dsh-eva-theme-plugin",
   "dsh-eval",
+  "dsh-eval-control",
   "dsh-eval-harness",
   "dsh-eval-regression",
   "dsh-event-auditor",
@@ -2574,6 +2577,7 @@
   "dsh-window",
   "dsh-windows-ocr",
   "dsh-windows-readiness-proof",
+  "dsh-wish-specializer",
   "dsh-with-chatgpt",
   "dsh-with-pencil",
   "dsh-withskillhub",
