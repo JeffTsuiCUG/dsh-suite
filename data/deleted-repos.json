@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T20:39:53.616Z",
+  "generated_at": "2026-10-20T23:56:48.019Z",
   "repos": [
     {
       "repo": "0sour/dsh-plugins",
@@ -432,6 +432,15 @@
       "lastStars": 0,
       "lastPush": "2026-08-14",
       "lastKnownUrl": "https://github.com/Gandufu/dsh-plugin"
+    },
+    {
+      "repo": "GuZhengSVT/dsh-WeCom-notify",
+      "seen": 2,
+      "firstDetectedAt": "2026-10-20T20:39:53.598Z",
+      "lastDetectedAt": "2026-10-20T23:56:48.006Z",
+      "lastStars": 2,
+      "lastPush": "2026-08-15",
+      "lastKnownUrl": "https://github.com/GuZhengSVT/dsh-WeCom-notify"
     },
     {
       "repo": "haiyoucuv/dsh-model-provider-label",
@@ -1197,15 +1206,6 @@
       "lastStars": 17,
       "lastPush": "2026-08-16",
       "lastKnownUrl": "https://github.com/chokwinlee/deepseek-harness-desktop"
-    },
-    {
-      "repo": "GuZhengSVT/dsh-WeCom-notify",
-      "seen": 1,
-      "firstDetectedAt": "2026-10-20T20:39:53.598Z",
-      "lastDetectedAt": "2026-10-20T20:39:53.598Z",
-      "lastStars": 2,
-      "lastPush": "2026-08-15",
-      "lastKnownUrl": "https://github.com/GuZhengSVT/dsh-WeCom-notify"
     }
   ]
 }
