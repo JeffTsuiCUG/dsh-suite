@@ -1,5 +1,5 @@
 {
- "ts": "2026-10-20T11:41:12.099Z",
+ "ts": "2026-10-20T17:09:48.038Z",
  "ids": [
   "7d7d",
   "8x-skills",
@@ -1419,6 +1419,7 @@
   "dsh-multimodal-skill",
   "dsh-multiple-chat-panels",
   "dsh-museai-tavern",
+  "dsh-museav-assets",
   "dsh-music-player",
   "dsh-music-plugin",
   "dsh-mygo",
@@ -2556,6 +2557,7 @@
   "dsh-whale-animation",
   "dsh-whale-arcade",
   "dsh-whale-balance",
+  "dsh-whale-catch",
   "dsh-whale-desktop-launcher",
   "dsh-whale-font",
   "dsh-whale-galgame",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:07:49.423Z",
+  "generated_at": "2026-10-20T17:09:47.940Z",
   "repos": [
     {
       "repo": "0sour/dsh-plugins",
@@ -1170,6 +1170,33 @@
       "lastStars": 17,
       "lastPush": "2026-08-16",
       "lastKnownUrl": "https://github.com/chokwinlee/deepseek-harness-desktop"
+    },
+    {
+      "repo": "hellosky983/dsh-mc-agent",
+      "seen": 1,
+      "firstDetectedAt": "2026-10-20T17:09:47.832Z",
+      "lastDetectedAt": "2026-10-20T17:09:47.832Z",
+      "lastStars": 10,
+      "lastPush": "2026-09-29",
+      "lastKnownUrl": "https://github.com/hellosky983/dsh-mc-agent"
+    },
+    {
+      "repo": "hellosky983/dsh-mc-launcher",
+      "seen": 1,
+      "firstDetectedAt": "2026-10-20T17:09:47.831Z",
+      "lastDetectedAt": "2026-10-20T17:09:47.831Z",
+      "lastStars": 10,
+      "lastPush": "2026-09-29",
+      "lastKnownUrl": "https://github.com/hellosky983/dsh-mc-launcher"
+    },
+    {
+      "repo": "YuJunZhiXue/dsh-purge",
+      "seen": 1,
+      "firstDetectedAt": "2026-10-20T17:09:47.831Z",
+      "lastDetectedAt": "2026-10-20T17:09:47.831Z",
+      "lastStars": 10391,
+      "lastPush": "2026-10-19",
+      "lastKnownUrl": "https://github.com/YuJunZhiXue/dsh-purge"
     }
   ]
 }
