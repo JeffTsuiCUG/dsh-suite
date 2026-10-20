@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T17:09:47.940Z",
+  "generated_at": "2026-10-20T20:39:53.616Z",
   "repos": [
     {
       "repo": "0sour/dsh-plugins",
@@ -459,6 +459,24 @@
       "lastStars": 3,
       "lastPush": "2026-08-15",
       "lastKnownUrl": "https://github.com/hccccc01333/dsh-report-html"
+    },
+    {
+      "repo": "hellosky983/dsh-mc-agent",
+      "seen": 2,
+      "firstDetectedAt": "2026-10-20T17:09:47.832Z",
+      "lastDetectedAt": "2026-10-20T20:39:53.598Z",
+      "lastStars": 10,
+      "lastPush": "2026-09-29",
+      "lastKnownUrl": "https://github.com/hellosky983/dsh-mc-agent"
+    },
+    {
+      "repo": "hellosky983/dsh-mc-launcher",
+      "seen": 2,
+      "firstDetectedAt": "2026-10-20T17:09:47.831Z",
+      "lastDetectedAt": "2026-10-20T20:39:53.598Z",
+      "lastStars": 10,
+      "lastPush": "2026-09-29",
+      "lastKnownUrl": "https://github.com/hellosky983/dsh-mc-launcher"
     },
     {
       "repo": "Heyflyingpig/long-draft-input",
@@ -1082,6 +1100,15 @@
       "lastKnownUrl": "https://github.com/yjm110517/content-to-editable-ppt-skill"
     },
     {
+      "repo": "YuJunZhiXue/dsh-purge",
+      "seen": 2,
+      "firstDetectedAt": "2026-10-20T17:09:47.831Z",
+      "lastDetectedAt": "2026-10-20T20:39:53.598Z",
+      "lastStars": 10391,
+      "lastPush": "2026-10-19",
+      "lastKnownUrl": "https://github.com/YuJunZhiXue/dsh-purge"
+    },
+    {
       "repo": "yun520-1/deepseek-heartflow",
       "seen": 2,
       "firstDetectedAt": "2026-08-17T13:55:14.753Z",
@@ -1172,31 +1199,13 @@
       "lastKnownUrl": "https://github.com/chokwinlee/deepseek-harness-desktop"
     },
     {
-      "repo": "hellosky983/dsh-mc-agent",
+      "repo": "GuZhengSVT/dsh-WeCom-notify",
       "seen": 1,
-      "firstDetectedAt": "2026-10-20T17:09:47.832Z",
-      "lastDetectedAt": "2026-10-20T17:09:47.832Z",
-      "lastStars": 10,
-      "lastPush": "2026-09-29",
-      "lastKnownUrl": "https://github.com/hellosky983/dsh-mc-agent"
-    },
-    {
-      "repo": "hellosky983/dsh-mc-launcher",
-      "seen": 1,
-      "firstDetectedAt": "2026-10-20T17:09:47.831Z",
-      "lastDetectedAt": "2026-10-20T17:09:47.831Z",
-      "lastStars": 10,
-      "lastPush": "2026-09-29",
-      "lastKnownUrl": "https://github.com/hellosky983/dsh-mc-launcher"
-    },
-    {
-      "repo": "YuJunZhiXue/dsh-purge",
-      "seen": 1,
-      "firstDetectedAt": "2026-10-20T17:09:47.831Z",
-      "lastDetectedAt": "2026-10-20T17:09:47.831Z",
-      "lastStars": 10391,
-      "lastPush": "2026-10-19",
-      "lastKnownUrl": "https://github.com/YuJunZhiXue/dsh-purge"
+      "firstDetectedAt": "2026-10-20T20:39:53.598Z",
+      "lastDetectedAt": "2026-10-20T20:39:53.598Z",
+      "lastStars": 2,
+      "lastPush": "2026-08-15",
+      "lastKnownUrl": "https://github.com/GuZhengSVT/dsh-WeCom-notify"
     }
   ]
 }

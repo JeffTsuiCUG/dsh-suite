@@ -1,5 +1,5 @@
 {
- "ts": "2026-10-20T17:09:48.038Z",
+ "ts": "2026-10-20T20:39:53.739Z",
  "ids": [
   "7d7d",
   "8x-skills",
@@ -1710,6 +1710,7 @@
   "dsh-plugin-net-access",
   "dsh-plugin-notify",
   "dsh-plugin-notify-huguangyu666",
+  "dsh-plugin-notify-sounds",
   "dsh-plugin-oauth-subs",
   "dsh-plugin-open-editor",
   "dsh-plugin-opencode-bridge",
