@@ -1,5 +1,5 @@
 {
- "ts": "2026-10-19T21:07:49.528Z",
+ "ts": "2026-10-20T00:24:04.653Z",
  "ids": [
   "7d7d",
   "8x-skills",
@@ -1760,6 +1760,7 @@
   "dsh-plugin-text-translation",
   "dsh-plugin-toggle",
   "dsh-plugin-tokenmeter",
+  "dsh-plugin-tool-management",
   "dsh-plugin-tts",
   "dsh-plugin-uisfx",
   "dsh-plugin-usage-dashboard",
